@@ -1,0 +1,38 @@
+{
+  "name": "robuxhome",
+  "version": "0.0.1",
+  "description": "Robux Home Discord Sunucusu İçin Hizmet Veriyorum",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Taha",
+  "license": "ISC",
+  "dependencies": {
+    "after": "^0.8.2",
+    "argument": "0.0.2",
+    "chalk": "^2.4.2",
+    "chance": "^1.0.18",
+    "cleverbot-node": "^0.3.11",
+    "common-tags": "^1.8.0",
+    "cool-images": "^1.0.3",
+    "dateformat": "^3.0.3",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "figlet": "^1.2.1",
+    "fs": "0.0.1-security",
+    "generate-password": "^1.4.1",
+    "list": "^2.0.18",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "name": "0.0.2",
+    "node-pre-gyp": "^0.12.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "simple-youtube-api": "^5.1.1",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.29.1"
+  }
+}
