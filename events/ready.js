@@ -10,8 +10,12 @@ module.exports = client => {
   console.log(`[${moment().format('YYYY-MM-DD HH:mm:ss')}] BOT: ${client.user.username} İsmi İle Aktifleşti`);
   client.user.setStatus("online");
    var oyun = [
-        "+yardım",
-        "Prefixim: +"
+        "+yardım Komutu İle Botun Komutlarını Öğren!",
+        "Discord Bot List Sitesine Girip Bana (OY VER)",
+        "Sunucumuz 7/24 Güvenlik Sistemlerimle Korunuyor",
+        "Prefix = + Bu Komut Olmadan Bir Komut Çalıştıramasınız!",
+        "Kurucu = MS S.|Scripter"
+
     ];
 
     setInterval(function() {
